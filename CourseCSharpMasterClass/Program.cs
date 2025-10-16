@@ -27,3 +27,4 @@ Console.WriteLine("Hello, William!");
 
 UnderstandingUserInputAndTheDataTypeString.Run();
 OverviewOfDataType.Run();
+VariableDefinitionInitializationAndAssigning.Run();
