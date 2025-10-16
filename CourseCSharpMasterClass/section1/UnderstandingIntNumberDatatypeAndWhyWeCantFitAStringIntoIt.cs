@@ -10,13 +10,13 @@ public class UnderstandingIntNumberDatatypeAndWhyWeCantFitAStringIntoIt
         // datatype variableName = initial value;
 
         int myNumber = 0;
-        myNumber = Console.ReadLine();
+        //myNumber = int.Parse(Console.ReadLine());
 
         // takes the user input and stores it
         // Variable with the name "userInput" and the data type "string"
         // string are used for text
         string userInput = Console.ReadLine()!;
-
+        myNumber = int.Parse(userInput);
         // We are adding to strings together and writing them onto the console
         Console.WriteLine("You entered: " + userInput);
         Console.ReadKey();
