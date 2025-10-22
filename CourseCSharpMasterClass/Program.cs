@@ -31,3 +31,4 @@ VariableDefinitionInitializationAndAssigning.Run();
 UnderstandingIntNumberDatatypeAndWhyWeCantFitAStringIntoIt.Run();
 FinalizingOurAdditionCalculator.Run();
 StringConcatenationVsStringInterpolation.Run();
+UsingDecimalNumbersInsteadWithDouble.Run();
