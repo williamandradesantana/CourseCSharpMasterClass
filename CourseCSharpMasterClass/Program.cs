@@ -32,3 +32,4 @@ UnderstandingIntNumberDatatypeAndWhyWeCantFitAStringIntoIt.Run();
 FinalizingOurAdditionCalculator.Run();
 StringConcatenationVsStringInterpolation.Run();
 UsingDecimalNumbersInsteadWithDouble.Run();
+DotsAndCommasWithDoubles.Run();
